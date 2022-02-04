@@ -16,7 +16,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FruitClassifier">
+        android:theme="@style/Theme.ImageCapture">
         <activity android:name="ai.certifai.imagecapture.CameraActivity" />
         <activity android:name="ai.certifai.imagecapture.ResultActivity" />
         <activity android:name="ai.certifai.imagecapture.MainActivity">

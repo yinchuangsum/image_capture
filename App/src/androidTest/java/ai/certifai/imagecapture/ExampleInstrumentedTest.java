@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ai.certifai.FruitClassifier", appContext.getPackageName());
+        assertEquals("ai.certifai.imagecapture", appContext.getPackageName());
     }
 }
